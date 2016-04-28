@@ -1,0 +1,28 @@
+name: test-jp
+favicon: null
+layout_spectrum: 0.19864535401575267
+typography_spectrum: 0.7256484024692327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4695646583568305
+  lightness: 0.34328663046471775
+  saturation: 0.41309099830687046
+  rhythmicContrast: 0.03390017221681774
+purpose: []
